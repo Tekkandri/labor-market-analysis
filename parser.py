@@ -9,12 +9,8 @@ HH_VAC_LIST = ["bi","data","sql","аналитик данных","analyst"]
 REGEXP_LIST = ["bi","analyst","аналитик","данных","sql","data"]
 
 proxy_1 = {
-    "http":"http://Le9YJs:onEjhN@45.129.6.81:8000",
-    "https":"http://Le9YJs:onEjhN@45.129.6.81:8000"
 }
 proxy_2 = {
-    "http":"http://Le9YJs:onEjhN@45.129.5.186:8000",
-    "https":"http://Le9YJs:onEjhN@45.129.5.186:8000"
 }
 proxies = [proxy_1, proxy_2]
 
